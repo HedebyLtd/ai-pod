@@ -21,7 +21,8 @@ const Home = () => {
             <img 
               src='./threejs.png'
               alt="logo"
-              className="w-32 h-32 object-contain"
+              className="w-72 h-72 object-contain"
+              style={{ marginLeft: '-65px', marginTop: '10px' }}
             />
           </motion.header>
 
