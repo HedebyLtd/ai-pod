@@ -1,0 +1,4 @@
+npm create vite@latest -- --template react client
+
+npm install three @react-three/fiber @react-three/drei maath valtio reac
+t-color framer-motion
